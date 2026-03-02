@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sajjad Taheri 👋
 
-<!--
-**sajjadtaheri071-svg/sajjadtaheri071-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Frontend Developer in the making  
+🎯 Crafting modern, responsive, and user-friendly web experiences  
+📚 Currently mastering JavaScript and expanding toward Fullstack  
+⚡ Focused on growth, clean code, and consistency  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+💻 HTML5  
+🎨 CSS3 | Tailwind CSS  
+⚡ JavaScript (ES6+)  
+🔧 Git & GitHub  
+
+---
+
+## 📈 Currently Working On
+
+- Improving JavaScript problem-solving skills  
+- Building responsive real-world projects  
+- Learning advanced frontend concepts  
+
+---
+
+## 🎯 Goals
+
+🌱 Become a great person first  
+💼 Grow into a strong Fullstack Developer  
+🚀 Build impactful and meaningful digital products  
+
+---
+
+## 📫 Connect With Me
+
+E-Mail: sajjadtaheri071@gmail.com
